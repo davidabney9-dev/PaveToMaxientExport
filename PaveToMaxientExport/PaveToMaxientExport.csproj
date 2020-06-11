@@ -69,7 +69,7 @@
     <Compile Include="Entities\Document.cs" />
     <Compile Include="Entities\Incident.cs" />
     <Compile Include="Entities\Narrative.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="ExportProcess.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Entities\Sanction.cs" />
     <Compile Include="Properties\Resources.Designer.cs">

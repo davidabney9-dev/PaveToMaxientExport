@@ -12,7 +12,7 @@ using PaveToMaxientExport.Entities;
 
 namespace PaveToMaxientExport
 {
-    class Program
+    class ExportProcess
     {
         private static readonly string _path = ConfigurationManager.AppSettings["ExportPath"];
         private static readonly string _sanctionPath = _path + @"SanctionsReports\";
